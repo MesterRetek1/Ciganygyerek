@@ -400,9 +400,9 @@ async def rubel(ctx):
 # boltos cuccok
 
 
-itemsname = ["Kőbányai", "Talicska", "Google Bylat asszisztens", "Trabant", "Ikarus busz", "Lenin szobra"]
-itemsprice = [1000, 5000, 6000, 10000, 20000, 15000]
-itemslower = ["kőbányai", "talicska", "g-blyat", "trabant", "ikarus", "lenin-szobor"]
+itemsname = ["Kőbányai", "Talicska", "Google Bylat asszisztens", "Trabant", "Ikarus busz", "Lenin szobra", "Füves cigi"]
+itemsprice = [50, 2300, 6000, 125000, 300000, 15000, 100]
+itemslower = ["kőbányai", "talicska", "g-blyat", "trabant", "ikarus", "lenin-szobor", "füves-cigi"]
 
 
 
